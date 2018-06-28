@@ -1,7 +1,7 @@
-# Spring Boot Hello World Example with JSP
+# Spring Boot Vending Machine
 
-## Guide
-https://hellokoding.com/spring-boot-hello-world-example-with-jsp/
+## Guide to access the index page
+http://localhost:8022/VM/ 
 
 ## What you'll need
 - JDK 1.7 or later
